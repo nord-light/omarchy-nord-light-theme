@@ -35,10 +35,10 @@ omarchy/
 
 | Name | Hex | Usage |
 |------|-----|-------|
-| Nord 4 | `#D8DEE9` | Panels and secondary surfaces |
-| Nord 5 | `#E5E9F0` | Main background |
-| Nord 6 | `#ECEFF4` | Raised and lighter surfaces |
-| — | `#C8D0DA` | Selection and stronger borders |
+| Nord 4 | `#D8DEE9` | Main background |
+| Nord 5 | `#E5E9F0` | Raised and lighter surfaces |
+| — | `#C8D0DA` | Panels and secondary surfaces |
+| — | `#B8C2CF` | Selection and stronger borders |
 
 ### Text Colors (Nord Polar Night)
 
@@ -46,7 +46,7 @@ omarchy/
 |------|-----|-------|
 | Nord 0 | `#2E3440` | Primary and bright text |
 | Nord 1 | `#3B4252` | Secondary text |
-| — | `#5F6A7E` | Muted text |
+| — | `#526074` | Muted text |
 
 ### Accent Colors
 
@@ -54,15 +54,15 @@ The original Nord accent colors are designed for dark backgrounds. Nord Light da
 
 | Element | Original Nord | Nord Light |
 |---------|---------------|------------|
-| Classes/types | `#8FBCBB` | `#1C7473` |
-| Functions | `#88C0D0` | `#0C7482` |
-| Tags/operators | `#81A1C1` | `#4B6C8C` |
+| Classes/types | `#8FBCBB` | `#1A6C6B` |
+| Functions | `#88C0D0` | `#0B6B78` |
+| Tags/operators | `#81A1C1` | `#466482` |
 | Keywords/accent | `#5E81AC` | `#3B5E85` |
-| Strings/success | `#A3BE8C` | `#577140` |
-| Numbers | `#B48EAD` | `#865B7F` |
-| Constants/warnings | `#EBCB8B` | `#7F6614` |
-| Fields | `#D08770` | `#975943` |
-| Errors | `#BF616A` | `#AE4750` |
+| Strings/success | `#A3BE8C` | `#50683B` |
+| Numbers | `#B48EAD` | `#7B5475` |
+| Constants/warnings | `#EBCB8B` | `#755E12` |
+| Fields | `#D08770` | `#8B523E` |
+| Errors | `#BF616A` | `#A2424A` |
 
 ## Compatibility
 
